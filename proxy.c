@@ -8,6 +8,7 @@
 #define SBUFSIZE 16
 #define NTHREADS 4
 sbuf_t sbuf; //连接缓冲区
+//
 // uri结构
 struct Uri
 {
